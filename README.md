@@ -5,4 +5,3 @@ Core Helium flash is an phenomenon that occurs in all the low-mass red giant sta
 
 heFlash python package obtains the 7 years of lightcurves of the low mass red giants from the Zwicky Transient Facility database and detects for Helium flash events. While we do not know how the event might look, in this version of the code, manual inspection is required.
 
-*** This release of the code is still under development.
